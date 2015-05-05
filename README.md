@@ -1,5 +1,5 @@
 # angularjs-navigation-master-detail
-The AngularJS Master-Detail Sample shows you how to create a cross-platform, multi-page app using Visual Studio Tools for Apache Cordova (CTP3) in Visual Studio 2015 Preview Visual Studio 2013 Update 4. The extension enables the creation of cross-platform apps using Apache Cordova that can run on Android, iOS, and Windows.
+The AngularJS Master-Detail Sample shows you how to create a cross-platform, multi-page app using Visual Studio Tools for Apache Cordova (CTP3) in Visual Studio 2015 RC. The extension enables the creation of cross-platform apps using Apache Cordova that can run on Android, iOS, and Windows.
 
 The sample creates a master-detail list using AngularJS in a Multi-Device Hybrid App. This sample demonstrates the following:
 - AngularJS routing for multi-page apps using the routing module (ngRoute) and partial pages. 
